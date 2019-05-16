@@ -1,0 +1,2 @@
+# pythonmetoerfinder
+training for python
